@@ -1,79 +1,12 @@
 # Terms of Art
 
-* Fabric Rendering API
+* [Fabric Rendering API](#fabric-rendering-api): Defines standard rendering features available to Fabric mods
+* [Indigo](#indigo): Default implementation of the Fabric Rendering API, ships with 
 * [FREX](#frex)
-* Indigo
-* Canvas
-* JMX
-* Simple Model Loader
-* Brocade
-
-
-
-
-
-
-
-f
-s
-f
-f
-s
-df
-sdf
-dsf
-s
-
-f
-dsf
-dsf
-ds
-fd
-sf
-d
-
-
-fs
-df
-s
-d
-f
-d
-f
-s
-f
-
-dkdjlasjkdlsakdjlaskjdasd.
-asdkjldjad
-djskaldjasjdlajdka
-
-daksjdklasjdkl
-dajskldjalsd
-
-djaksldjladl
-
-
-dad
-
-ds
-ads
-
-asd
-
-ad
-sa
-sd
-a
-sd
-sad
-a
-
-
-
-
-
-
-
+* [Canvas](#canvas)
+* [JMX](#jmx)
+* [Simple Model Loader](#simple-model-loader)
+* [Brocade](#brocade)
 
 ## Fabric Rendering API
 ## FREX
