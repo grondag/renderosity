@@ -16,7 +16,7 @@
 
 ## Fabric Rendering API
 
-[Javadocs](https://grondag.github.io/renderosity/renderer-api-javadoc/index.html)
+[Javadocs](https://grondag.github.io/renderosity/fabric-api-javadoc/index.html)
 ## FREX
 ## Indigo
 ## Canvas
