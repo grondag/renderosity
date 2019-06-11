@@ -1,4 +1,4 @@
-# Terms of Art
+# Terms of Art: All The Rendery Things, Collected
 
 The Fabric tool chain is host to rapidly-advancing rendering capabilities.  However, the modular and community-driven nature of Fabric means there are many component. Here is a handy list.  More information about each is below.   
 
