@@ -10,9 +10,12 @@
 
 * [JMX](#jmx): Extensions to Minecraft JSON Model Loader enabling features of the Rendering API and FREX.  
 
+* [Satin](#satin): Full-frame, post-render shader loader.
+
 * [Simple Model Loader](#simple-model-loader): (Future) Base model classes and loader supporting all API features.  
 
 * [Brocade](#brocade): (Future) Advanced library for dynamic models with extensive features.  
+
 
 ## Fabric Rendering API
 
@@ -25,5 +28,8 @@
 ## Indigo
 ## Canvas
 ## JMX
+## Satin
+
+[Satin Project Site](https://github.com/Ladysnake/Satin)
 ## Simple Model Loader
 ## Brocade
