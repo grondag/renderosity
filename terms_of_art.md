@@ -22,6 +22,13 @@ The Fabric tool chain is host to rapidly-advancing rendering capabilities.  Howe
 ## Fabric Rendering API
 
 [Fabric Rendering API Javadocs](https://grondag.github.io/renderosity/fabric-api-javadoc/index.html)
+Render-related APIs in Fabric are split into separate modules:
+* fabric-models-v0
+* fabric-renderer-api-v1
+* fabric-rendering-data-attachment-v1
+* fabric-rendering-fluids-v1
+* fabric-rendering-v0
+* fabric-textures-v0
 
 ## FREX
 
