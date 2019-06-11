@@ -35,6 +35,7 @@ Render-related APIs in Fabric are split into separate modules:
 * [Fabric Home Page](https://fabricmc.net/)
 * [Fabric API Project Site](https://github.com/FabricMC/fabric)
 * [Fabric Rendering API Javadocs](https://grondag.github.io/renderosity/fabric-api-javadoc/index.html)
+* [Fabric Discord](https://discord.gg/v6v4pMv)
 
 ## FREX
 
