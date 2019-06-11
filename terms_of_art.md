@@ -4,7 +4,7 @@
 
 * [Indigo](#indigo): Default implementation of the Fabric Rendering API, ships with overall Fabric API.  
 
-* [FREX](#frex): Unofficial extensions to the Fabric Rendering API, including shaders for terrain and item rendering. 
+* [FREX](#frex): Unofficial extensions to the Fabric Rendering API, including shaders. 
  
 * [Canvas](#canvas): Shader-based alternative to Indigo - currently the only renderer that implements FREX.  
 
