@@ -1,5 +1,8 @@
+net.fabricmc.fabric.api.client.model
 net.fabricmc.fabric.api.client.render
 net.fabricmc.fabric.api.client.render.fluid.v1
+net.fabricmc.fabric.api.client.texture
+net.fabricmc.fabric.api.event.client
 net.fabricmc.fabric.api.renderer.v1
 net.fabricmc.fabric.api.renderer.v1.material
 net.fabricmc.fabric.api.renderer.v1.mesh
