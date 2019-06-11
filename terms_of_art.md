@@ -1,6 +1,6 @@
 # Terms of Art: All The Rendery Things, Collected
 
-The Fabric tool chain is host to rapidly-advancing rendering capabilities.  However, the modular and community-driven nature of Fabric means there are many component. Here is a handy list.  More information about each is below.   
+The Fabric tool chain is host to rapidly-advancing rendering capabilities.  However, the modular and community-driven nature of Fabric means there are many components! Here is a handy list.  More information about each is below.   
 
 * [Fabric Rendering API](#fabric-rendering-api): Defines standard rendering features available to Fabric mods.  
 
