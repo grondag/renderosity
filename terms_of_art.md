@@ -15,6 +15,8 @@
 * [Brocade](#brocade): (Future) Advanced library for dynamic models with extensive features.  
 
 ## Fabric Rendering API
+
+[Javadocs](https://grondag.github.io/renderosity/renderer-api-javadoc/index.html)
 ## FREX
 ## Indigo
 ## Canvas
