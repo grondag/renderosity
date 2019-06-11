@@ -1,5 +1,7 @@
 # Terms of Art
 
+The Fabric tool chain is host to rapidly-advancing rendering capabilities.  However, the modular and community-driven nature of Fabric means there are many component. Here is a handy list.  More information about each is below.   
+
 * [Fabric Rendering API](#fabric-rendering-api): Defines standard rendering features available to Fabric mods.  
 
 * [Indigo](#indigo): Default implementation of the Fabric Rendering API, ships with overall Fabric API.  
